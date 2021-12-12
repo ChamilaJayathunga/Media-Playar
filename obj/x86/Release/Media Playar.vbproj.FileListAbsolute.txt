@@ -1,0 +1,18 @@
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Release\WindowsApplication4.exe.manifest
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Release\WindowsApplication4.application
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Release\WindowsApplication4.exe
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Release\WindowsApplication4.pdb
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Release\WindowsApplication4.xml
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Release\Interop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Release\AxInterop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\Interop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\AxInterop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\Media Playar.vbproj.ResolveComReference.cache
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\WindowsApplication4.mwmp.resources
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\WindowsApplication4.Resources.resources
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\Media Playar.vbproj.GenerateResource.Cache
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\WindowsApplication4.exe.manifest
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\WindowsApplication4.application
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\WindowsApplication4.exe
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\WindowsApplication4.xml
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Release\WindowsApplication4.pdb

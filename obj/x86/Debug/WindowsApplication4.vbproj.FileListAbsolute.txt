@@ -1,0 +1,28 @@
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.MediaPlyer.resources
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.wmp.resources

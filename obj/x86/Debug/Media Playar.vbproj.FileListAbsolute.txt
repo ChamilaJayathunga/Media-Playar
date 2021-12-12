@@ -1,0 +1,61 @@
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.ResolveComReference.cache
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.GenerateResource.Cache
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Documents\Visual Studio 2010\Projects\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.mwmp.resources
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.ResolveComReference.cache
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.mwmp.resources
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.GenerateResource.Cache
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.exe.manifest
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.application
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe.manifest
+C:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.application
+E:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+E:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.ResolveComReference.cache
+E:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+E:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+E:\Users\Chamila Jayathunga\Desktop\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+E:\ALL FILES\My Crations\vishual basic DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+E:\ALL FILES\My Crations\vishual basic DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ALL FILES\My Crations\vishual basic DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.ResolveComReference.cache
+E:\ALL FILES\My Crations\vishual basic DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+E:\ALL FILES\My Crations\vishual basic DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.ResolveComReference.cache
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.exe.manifest
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.application
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Debug\Interop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\bin\Debug\AxInterop.WMPLib.dll
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.mwmp.resources
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\Media Playar.vbproj.GenerateResource.Cache
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe.manifest
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.application
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\Media Playar\Media Playar\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
